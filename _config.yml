@@ -27,7 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  iammana
 header_pages:
  - about.markdown
- - resume.markdown
  - myApps.markdown
 
 # Build settings
